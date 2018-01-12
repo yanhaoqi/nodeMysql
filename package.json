@@ -1,0 +1,10 @@
+{
+  "name": "nodeMysqlTest",
+  "version": "0.0.1",
+  "devDependencies": {
+
+  },
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
+}
